@@ -90,7 +90,7 @@ body {
 
 section {
   background: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)),
-    url("img/Velociraptor.jpeg");
+    url("images/Velociraptor.jpeg");
   filter: saturate(130%);
   background-repeat: no-repeat;
   background-position: center;
